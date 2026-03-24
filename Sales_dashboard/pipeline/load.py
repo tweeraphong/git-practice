@@ -4,7 +4,7 @@ def load(df):
     conn = mysql.connector.connect(
         host="localhost",
         user="root",
-        password="yourpassword",
+        password="password",
         database="sales_db"
     )
 

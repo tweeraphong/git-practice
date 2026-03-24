@@ -1,3 +1,9 @@
+## 🚀 Key Highlights
+- Built end-to-end ETL data pipeline (Python + MySQL)
+- Processed 5,000+ records with validation checks
+- Implemented data quality rules and logging system
+- Designed for real-world analytics and reporting
+
 Overview:
 This project demonstrates an end-to-end data pipeline that ingests raw sales data, performs data transformation and validation, and loads it into a relational database for analytics and reporting.
 
@@ -67,6 +73,12 @@ Future Improvements:
 Integrate with real API data sources
 Add Airflow for orchestration
 Deploy pipeline to cloud (AWS / GCP)
+
+## ✅ Pipeline Execution Result
+Extracted 5000 rows and Validation passed
+![alt text](image.png)
+Data loaded to MySQL
+![alt text](image-1.png)
 
 Author:
 Weeraphong Kingphetsareechon
